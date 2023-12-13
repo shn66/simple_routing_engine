@@ -12,6 +12,7 @@ The routing engine should does the following:
 * Finds the shortest path between the two points on the map using A*
 
 The output of the program is saved as a [geojson](https://en.wikipedia.org/wiki/GeoJSON) file. 
+![Alt text](https://github.com/shn66/simple_routing_engine/blob/master/assets/shortest_path_geojson.png "Example route")
 
 
 # Build Instructions
