@@ -1,0 +1,1031 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.14199749999997,
+                        37.426449
+                    ],
+                    [
+                        -122.14205660000002,
+                        37.4263779
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "name": "edge0"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.14205660000002,
+                        37.4263779
+                    ],
+                    [
+                        -122.1419858,
+                        37.426340599999996
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "name": "edge1"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.1419858,
+                        37.426340599999996
+                    ],
+                    [
+                        -122.14113300000002,
+                        37.4258933
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "name": "edge2"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.14113300000002,
+                        37.4258933
+                    ],
+                    [
+                        -122.141073,
+                        37.4258623
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "name": "edge3"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.141073,
+                        37.4258623
+                    ],
+                    [
+                        -122.14110959999998,
+                        37.4258179
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "name": "edge4"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.14110959999998,
+                        37.4258179
+                    ],
+                    [
+                        -122.1411257,
+                        37.4257984
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "name": "edge5"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.1411257,
+                        37.4257984
+                    ],
+                    [
+                        -122.14130879999999,
+                        37.4255765
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "name": "edge6"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.14130879999999,
+                        37.4255765
+                    ],
+                    [
+                        -122.1414988,
+                        37.4253461
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "name": "edge7"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.1414988,
+                        37.4253461
+                    ],
+                    [
+                        -122.14155200000002,
+                        37.42528169999999
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "name": "edge8"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.14155200000002,
+                        37.42528169999999
+                    ],
+                    [
+                        -122.141711,
+                        37.4250889
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "name": "edge9"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.141711,
+                        37.4250889
+                    ],
+                    [
+                        -122.1417252,
+                        37.4250718
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "name": "edge10"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.1417252,
+                        37.4250718
+                    ],
+                    [
+                        -122.1417628,
+                        37.42502609999999
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "name": "edge11"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.1417628,
+                        37.42502609999999
+                    ],
+                    [
+                        -122.1417097,
+                        37.4249986
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "name": "edge12"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.1417097,
+                        37.4249986
+                    ],
+                    [
+                        -122.1408954,
+                        37.4245798
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "name": "edge13"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.1408954,
+                        37.4245798
+                    ],
+                    [
+                        -122.1408803,
+                        37.4245734
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "name": "edge14"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.1408803,
+                        37.4245734
+                    ],
+                    [
+                        -122.1408203,
+                        37.42454330000001
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "name": "edge15"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.1408203,
+                        37.42454330000001
+                    ],
+                    [
+                        -122.14088440000002,
+                        37.424477
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "name": "edge16"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.14088440000002,
+                        37.424477
+                    ],
+                    [
+                        -122.1410318,
+                        37.4243263
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "name": "edge17"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.1410318,
+                        37.4243263
+                    ],
+                    [
+                        -122.14109620000002,
+                        37.424257600000004
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "name": "edge18"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.14109620000002,
+                        37.424257600000004
+                    ],
+                    [
+                        -122.1412632,
+                        37.4240514
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "name": "edge19"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.1412632,
+                        37.4240514
+                    ],
+                    [
+                        -122.1415194,
+                        37.4237466
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "name": "edge20"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.1415194,
+                        37.4237466
+                    ],
+                    [
+                        -122.14157120000002,
+                        37.4236852
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "name": "edge21"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.14157120000002,
+                        37.4236852
+                    ],
+                    [
+                        -122.14180650000003,
+                        37.42344640000001
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "name": "edge22"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.14180650000003,
+                        37.42344640000001
+                    ],
+                    [
+                        -122.141954,
+                        37.4232727
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "name": "edge23"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.141954,
+                        37.4232727
+                    ],
+                    [
+                        -122.141966,
+                        37.4232575
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "name": "edge24"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.141966,
+                        37.4232575
+                    ],
+                    [
+                        -122.1420386,
+                        37.4231728
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "name": "edge25"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.1420386,
+                        37.4231728
+                    ],
+                    [
+                        -122.1421373,
+                        37.423033
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "name": "edge26"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.1421373,
+                        37.423033
+                    ],
+                    [
+                        -122.14199239999998,
+                        37.42295639999999
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "name": "edge27"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.14199239999998,
+                        37.42295639999999
+                    ],
+                    [
+                        -122.141901,
+                        37.4229075
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "name": "edge28"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.141901,
+                        37.4229075
+                    ],
+                    [
+                        -122.1415577,
+                        37.422721900000006
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "name": "edge29"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.1415577,
+                        37.422721900000006
+                    ],
+                    [
+                        -122.1414841,
+                        37.4226827
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "name": "edge30"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.1414841,
+                        37.4226827
+                    ],
+                    [
+                        -122.14065739999997,
+                        37.4222424
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "name": "edge31"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.14065739999997,
+                        37.4222424
+                    ],
+                    [
+                        -122.1402186,
+                        37.4220105
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "name": "edge32"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.1402186,
+                        37.4220105
+                    ],
+                    [
+                        -122.13939360000002,
+                        37.4215862
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "name": "edge33"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.13939360000002,
+                        37.4215862
+                    ],
+                    [
+                        -122.1390776,
+                        37.421418
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "name": "edge34"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.1390776,
+                        37.421418
+                    ],
+                    [
+                        -122.1389093,
+                        37.4213305
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "name": "edge35"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.1389093,
+                        37.4213305
+                    ],
+                    [
+                        -122.13885489999998,
+                        37.421301899999996
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "name": "edge36"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.13885489999998,
+                        37.421301899999996
+                    ],
+                    [
+                        -122.1386381,
+                        37.4211862
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "name": "edge37"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.1386381,
+                        37.4211862
+                    ],
+                    [
+                        -122.1386018,
+                        37.4211668
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "name": "edge38"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.1386018,
+                        37.4211668
+                    ],
+                    [
+                        -122.1384745,
+                        37.4210989
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "name": "edge39"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.1384745,
+                        37.4210989
+                    ],
+                    [
+                        -122.1381674,
+                        37.4209357
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "name": "edge40"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.1381674,
+                        37.4209357
+                    ],
+                    [
+                        -122.1380708,
+                        37.4208843
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "name": "edge41"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.1380708,
+                        37.4208843
+                    ],
+                    [
+                        -122.1379897,
+                        37.4208405
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "name": "edge42"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.1379897,
+                        37.4208405
+                    ],
+                    [
+                        -122.137748,
+                        37.4207183
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "name": "edge43"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.137748,
+                        37.4207183
+                    ],
+                    [
+                        -122.13751910000002,
+                        37.4206005
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "name": "edge44"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.13751910000002,
+                        37.4206005
+                    ],
+                    [
+                        -122.13714499999999,
+                        37.4204061
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "name": "edge45"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.13714499999999,
+                        37.4204061
+                    ],
+                    [
+                        -122.1367696,
+                        37.4202115
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "name": "edge46"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.1367696,
+                        37.4202115
+                    ],
+                    [
+                        -122.13611409999997,
+                        37.41987540000001
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "name": "edge47"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.13611409999997,
+                        37.41987540000001
+                    ],
+                    [
+                        -122.1358361,
+                        37.41973670000001
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "name": "edge48"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.1358361,
+                        37.41973670000001
+                    ],
+                    [
+                        -122.135683,
+                        37.4196598
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "name": "edge49"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.135683,
+                        37.4196598
+                    ],
+                    [
+                        -122.1356187,
+                        37.4196293
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "name": "edge50"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.1356187,
+                        37.4196293
+                    ],
+                    [
+                        -122.1355222,
+                        37.4195788
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "name": "edge51"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.1355222,
+                        37.4195788
+                    ],
+                    [
+                        -122.13545799999999,
+                        37.41954700000001
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "name": "edge52"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.13545799999999,
+                        37.41954700000001
+                    ],
+                    [
+                        -122.13502679999999,
+                        37.4193249
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "name": "edge53"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
