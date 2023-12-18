@@ -5,7 +5,7 @@ A simple routing engine that can find the shortest path between two points on a 
 
 `map.osm` is an XML file road network data from Open Street Maps containing nodes and ways in the area. A way is a path between nodes. A way can be a road, a river, a railway, etc. Each way has a list of nodes that it connects. Each node has a latitude and longitude.
 
-The routing engine should does the following:
+The routing engine does the following:
 * Read the map data from 'map.osm' XML file
 * Build a graph from the map data
 * A function API that accepts start and end points
